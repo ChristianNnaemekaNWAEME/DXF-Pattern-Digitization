@@ -1,17 +1,4 @@
-# Exhibit J-9: CAD/DXF Pattern-Digitization Workflow
-
-## What this is
-
-A standalone, working demonstration of the digitization step
-described in the internship report (Exhibit D-1): converting legacy
-pattern measurements into DXF (Drawing Exchange Format) files, the
-industry-standard CAD interchange format the internship report
-describes working with via Valentina and Autodesk AutoCAD.
-
-This is distinct from Exhibits J-1 through J-8, which address the
-downstream cutting-optimization and robust-statistics work. This
-exhibit addresses the digitization step itself: converting raw
-measurements into valid, machine-readable CAD geometry.
+# CAD/DXF Pattern-Digitization Workflow
 
 ## What it does
 
